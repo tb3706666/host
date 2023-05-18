@@ -1,0 +1,18 @@
+# zaitu
+
+# 长链接
+192.168.1.225 source.com
+192.168.1.225  wmpush.z-trip.cn
+
+# mock
+192.168.1.221 zven.z-trip.cn
+127.0.0.1 devzven.z-trip.cn
+
+# Yapi
+192.168.1.221 zven.z-trip.cn
+
+# uat
+192.168.31.66 dev-uat.z-trip.cn
+127.0.0.1 dev-uat.z-trip.cn
+127.0.0.1 dev-test.z-trip.cn
+127.0.0.1 dev-admin-uat.z-trip.cn

@@ -1,0 +1,35 @@
+# UAT-PRJ环境
+
+192.168.1.220 dubbo.z-trip.cn
+192.168.1.220  imgserver.z-trip.cn
+192.168.1.220  zk.z-trip.cn
+192.168.1.220  redis.z-trip.cn
+192.168.1.220  www.z-trip.cn
+192.168.1.220  passport.z-trip.cn
+192.168.1.220  payment.z-trip.cn
+192.168.1.220  m.z-trip.cn
+192.168.1.220  ms.z-trip.cn
+192.168.1.220  ws.z-trip.cn
+192.168.1.220  admin.z-trip.cn
+192.168.1.240  gitserver.zt.com
+192.168.1.220  vetech.openapi.z-trip.cn
+192.168.1.220  openapi.z-trip.cn
+192.168.1.220  openapi-uat.z-trip.cn
+192.168.1.201 mysql.z-trip.cn
+192.168.1.201 www.zt.com
+192.168.1.220 dubbo.z-trip.cn
+192.168.1.220  imgserver-trip.mbcloud.com
+192.168.1.220  zk.z-trip.cn
+192.168.1.220  redis.z-trip.cn
+192.168.1.220  trip.mbcloud.com
+192.168.1.220  passport-trip.mbcloud.com
+192.168.1.220  payment-trip.mbcloud.com
+192.168.1.220  m-trip.mbcloud.com
+192.168.1.220  ms-trip.mbcloud.com
+192.168.1.220  ws-trip.mbcloud.com
+192.168.1.220  admin.z-trip.cn
+192.168.1.220  openapi-trip.mbcloud.com
+47.100.60.74 oapi.dingtalk.com
+47.103.74.239 elk.fosun.com
+# 127.0.0.1  m.z-trip.cn
+127.0.0.1 m-uat.z-trip.cn
