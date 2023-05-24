@@ -12,7 +12,6 @@
 192.168.1.221 zven.z-trip.cn
 
 # uat
-192.168.31.66 dev-uat.z-trip.cn
 127.0.0.1 dev-uat.z-trip.cn
 127.0.0.1 dev-test.z-trip.cn
 127.0.0.1 dev-admin-uat.z-trip.cn
