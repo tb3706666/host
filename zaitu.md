@@ -1,4 +1,5 @@
-# zaitu：https://raw.githubusercontent.com/tb3706666/host/master/zaitu.md
+# 编辑地址：https://github.com/tb3706666/host/edit/master/zaitu.md
+# 在线地址：https://raw.githubusercontent.com/tb3706666/host/master/zaitu.md
 
 # 长链接
 192.168.1.225 source.com
